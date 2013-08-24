@@ -1,0 +1,511 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"abc"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Hippo",
+	"command_palette":
+	{
+		"height": 27.0,
+		"selected_items":
+		[
+			[
+				"install pak",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: install package",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"page",
+				"Package Control: Install Package"
+			],
+			[
+				"package cot",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"package contro: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Volumes/XOUL/workspace/disshiphop.kr/css/hiphop.css",
+		"/Volumes/XOUL/workspace/disshiphop.kr/index.html",
+		"/Volumes/XOUL/workspace/Smarteen/smarteen-photo-contest/contest/templates/layout.html",
+		"/Volumes/XOUL/workspace/hippo/hippo/crawler/naver_crawler.py",
+		"/Volumes/XOUL/workspace/hippo/hippo/utils.py",
+		"/Volumes/XOUL/workspace/hippo/hippo/templates/layout.html",
+		"/Volumes/XOUL/workspace/hippo/hippo/views/api.py",
+		"/Volumes/XOUL/workspace/hippo/hippo/model.py",
+		"/Volumes/XOUL/workspace/hippo/hippo/__init__.py",
+		"/Volumes/XOUL/workspace/hippo/hippo/templates/webtoon_list.html",
+		"/Volumes/XOUL/workspace/hippo/db/search.db/Webtoon/_MAIN_0.toc",
+		"/Volumes/XOUL/workspace/hippo/hippo.sublime-project",
+		"/Volumes/XOUL/workspace/hippo/run",
+		"/Volumes/XOUL/workspace/hippo/hippo/controller.py",
+		"/Volumes/XOUL/workspace/hippo/celeryd.conf",
+		"/Volumes/XOUL/workspace/hippo/hippo/tasks.py",
+		"/Volumes/XOUL/workspace/hippo/celeryd",
+		"/Volumes/XOUL/workspace/hippo/runcelery",
+		"/Volumes/XOUL/workspace/hippo/hippo/static/js/hippo.js",
+		"/Volumes/XOUL/workspace/hippo/hippo/config/error.py",
+		"/Volumes/XOUL/workspace/hippo/run.sh",
+		"/Volumes/XOUL/workspace/hippo/hippo.ini",
+		"/Volumes/XOUL/workspace/hippo/hippo/crawler/tasks.py",
+		"/Volumes/XOUL/workspace/hippo/hippo/static/js/jquery.loadasync.js",
+		"/Volumes/XOUL/workspace/hippo/hippo/views/web.py",
+		"/Volumes/XOUL/workspace/hippo/hippo/static/js/base64.js",
+		"/Volumes/XOUL/workspace/hippo/sftp-config.json",
+		"/Volumes/XOUL/workspace/hippo/hippo/static/js/knockout.mapping-latest.js",
+		"/Volumes/XOUL/workspace/hippo/hippo/static/js/knockout-2.3.0.js",
+		"/Volumes/XOUL/workspace/hippo/hippo/static/js/bootstrap.min.js",
+		"/Volumes/XOUL/workspace/hippo/hippo/static/css/bootstrap.min.css",
+		"/Volumes/XOUL/workspace/hippo/hippo/static/js/jquery-1.10.2.min.js",
+		"/Volumes/XOUL/workspace/hippo/hippo/database_uri.py",
+		"/Volumes/XOUL/workspace/hippo/venv/lib/python2.7/site-packages/kombu/transport/django/management/__init__.py",
+		"/Volumes/XOUL/workspace/hippo/reload.sh",
+		"/Volumes/XOUL/workspace/hippo/run_celery",
+		"/Volumes/XOUL/workspace/hippo/hippo/crawlers/tasks.py",
+		"/Volumes/XOUL/workspace/hippo/hippo/crawlers/naver_crawler.py",
+		"/Volumes/XOUL/workspace/hippo/runserver.py",
+		"/Users/xoul/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/xoul/Library/Application Support/Sublime Text 2/Packages/User/Python Virtual Environment.sublime-build",
+		"/Users/xoul/Library/Application Support/Sublime Text 2/Packages/Python/Python.sublime-build",
+		"/Volumes/XOUL/workspace/hippo/hippo/crawlers/__init__.py",
+		"/Volumes/XOUL/workspace/hippo/.gitignore",
+		"/Users/xoul/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/xoul/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/xoul/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/xoul/Desktop/test.py",
+		"/Users/xoul/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/Users/xoul/Desktop/asd.py",
+		"/Volumes/XOUL/workspace/Sleep If U Can/SleepIfUCan/SleepIfUCan-Info.plist",
+		"/Volumes/XOUL/workspace/Smarteen/smarteen-photo-contest/contest/model.py",
+		"/Volumes/XOUL/Dropbox/Joyfl/Projects/Dish by.me/Documents/Distribution/appstore description.txt",
+		"/Volumes/XOUL/workspace/Smarteen/smarteen-photo-contest/LICENSE.txt",
+		"/Volumes/XOUL/workspace/Smarteen/mentors/LICENSE.txt",
+		"/Volumes/XOUL/workspace/Smarteen/smarteen-photo-contest/contest/views/web.py",
+		"/Volumes/XOUL/workspace/Smarteen/smarteen-photo-contest/contest/__init__.py",
+		"/Users/xoul/Desktop/답변.txt",
+		"/Users/xoul/Desktop/회장단.txt",
+		"/Users/xoul/Desktop/개발사멘토.txt",
+		"/Users/xoul/Desktop/교육.txt",
+		"/Users/xoul/Downloads/tmp_asdf.txt",
+		"/Users/xoul/Downloads/MealService/MealService.as",
+		"/Users/xoul/Desktop/code.txt",
+		"/Users/xoul/Downloads/appstore description.txt",
+		"/Volumes/XOUL/Dropbox/Joyfl/Projects/Binary Archive/조사.txt",
+		"/Users/xoul/Desktop/web.xml",
+		"/Volumes/XOUL/Dropbox/Projects/Fanpple/Documents/iOS Test Device UDID.txt",
+		"/Users/xoul/Downloads/Multiple-Upload-Samples/multiple-device-upload-ios.deviceids",
+		"/Users/xoul/Downloads/wiki.txt",
+		"/Users/xoul/Desktop/response.json",
+		"/Users/xoul/Desktop/acuros.txt",
+		"/Users/xoul/Desktop/KisMAC/DumpLog 13-06-18 18:53",
+		"/Volumes/XOUL/workspace/Dish by.me/Dish by.me/Resources/agreement.html",
+		"/Users/xoul/Downloads/agreement.html",
+		"/Users/xoul/Downloads/약관110814.txt",
+		"/Volumes/XOUL/Dropbox/Joyfl/Projects/Sleep If U Can/번역파일/values-ja/strings.xml",
+		"/Users/xoul/Desktop/shake.csv",
+		"/Users/xoul/Desktop/shake.txt",
+		"/Users/xoul/Desktop/Joyfl.txt",
+		"/Users/xoul/Downloads/manifest.plist",
+		"/Volumes/XOUL/Dropbox/기타악보/버스커버스커 - 정류장.txt",
+		"/Volumes/XOUL/Dropbox/기타악보/사랑은 어쩔수 없네요.txt",
+		"/Applications/League of Legends.app/Contents/LOL/RADS/system/locale.cfg",
+		"/Users/xoul/Downloads/전설의 주먹 (Legendary Fist, 2013) DVDRip.720p.5.1CH.DRM/필히 전용코덱을 다운받으세요.txt",
+		"/Users/xoul/Desktop/fasd.html",
+		"/Users/xoul/Desktop/asdasd.html",
+		"/Users/xoul/Desktop/mat.c",
+		"/Users/xoul/Library/Preferences/IdeaIC12/options/jdk.table.xml",
+		"/Users/xoul/Library/Application Support/IdeaIC12/availables.xml",
+		"/Users/xoul/Desktop/wtf.html",
+		"/Users/xoul/Downloads/facebook (1).txt",
+		"/Users/xoul/Downloads/facebook.txt",
+		"/Users/xoul/Desktop/fuck.html",
+		"/Volumes/XOUL/Dropbox/Public/Fanpple/index.html",
+		"/Users/xoul/Desktop/asdasd.txt",
+		"/Users/xoul/Desktop/push.py",
+		"/Volumes/XOUL/workspace/Dish by.me/Dish by.me/Dish by.me/Dish by.me-Info.plist",
+		"/Users/xoul/Downloads/Back_to_the_Mac_20120805.css",
+		"/Users/xoul/Desktop/일요일 저녁까지 발표자료 초안.txt",
+		"/Users/xoul/Downloads/DTCoreText/Demo/Resources/About2.html",
+		"/Users/xoul/Downloads/DTCoreText/Demo/Resources/About.html",
+		"/Users/xoul/Desktop/card.txt",
+		"/Users/xoul/Downloads/KB_거래내역조회(215402-04-054274_20130416214320).xls",
+		"/Users/xoul/Desktop/iTunes Music Library.xml",
+		"/Volumes/XOUL/Music/iTunes/iTunes Music Library.xml"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"top",
+			"print",
+			"read",
+			"time.",
+			"read",
+			"date",
+			"webtoons",
+			" ',",
+			" '",
+			"href",
+			"loginWithFacebook",
+			"구",
+			"구독",
+			"onclick",
+			">\n",
+			"episodeItem",
+			"model",
+			"hippo",
+			"app",
+			"검색",
+			"search",
+			"subscribeButton",
+			"log",
+			"url",
+			"href",
+			"print (.*)",
+			"STart",
+			"hippo",
+			"crawler.naver_crawler.crawl",
+			"print",
+			"delay",
+			"CELERYD_OPTS",
+			"CELERYD_LOG_LEVEL",
+			"CELERYD_OPTS",
+			"nodes",
+			"CELERYD_MULTI",
+			"celeryd-multi",
+			"pid",
+			"log",
+			"echo",
+			"with",
+			"logs",
+			"tasks",
+			"self.option",
+			"option",
+			"filterWebtoons",
+			"검색",
+			"[0-9]+	",
+			"log",
+			"data-original",
+			"thumbnail_url",
+			"data-ori",
+			"param",
+			"request.param",
+			"loadImages",
+			"data-original",
+			"lazyload",
+			"?",
+			"subscribed",
+			"$.post",
+			"url_for",
+			"구독하기",
+			"log",
+			"graph",
+			"graphAPI",
+			"pip install",
+			"url_for",
+			"hello",
+			"abort",
+			"db.Model",
+			"print",
+			"filter",
+			"webtoon_filter",
+			"filter",
+			"User",
+			"print",
+			"login",
+			"url_for",
+			"jsonify",
+			"if week",
+			"m.",
+			"webtoons_artists",
+			"filter",
+			"dumps",
+			"model.",
+			"['",
+			"artist =",
+			"datetime",
+			"photo_url",
+			"page",
+			"'id'",
+			"True",
+			"titleId",
+			"webtoon",
+			"on",
+			"webtoons",
+			"sftp",
+			"upload",
+			"ftp",
+			"sftp",
+			"reindent",
+			"indent",
+			"url",
+			"snks",
+			"이익순",
+			"준규",
+			"0x392Du",
+			";",
+			"'",
+			"  M",
+			"M",
+			"</?h1>",
+			"(?<=a)",
+			"(?<a)",
+			"(?=a)",
+			"?=a",
+			"!a",
+			"(?[a-z]<!(<p>))+",
+			"(?<!(<p>))+",
+			"(?<!<p>)+",
+			"(?<!a)+",
+			"(!^a).+",
+			"\\n(!<p>).+\\n",
+			"\\n!(<p>).+\\n",
+			"(</p>){1}\\n(.+)\\n",
+			"</p2>\\n(.+)\\n",
+			"</h2>\\n(.+)\\n",
+			"(제 \\d+조 \\(.+\\))\\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"logger.info($1)",
+			"Done",
+			"myproject",
+			"tasks.test_task",
+			"",
+			"subscribed()",
+			"webtoon_filter",
+			"if filter",
+			"thumbnail_url",
+			"webtoons",
+			",",
+			"",
+			" M",
+			"",
+			"X",
+			"123",
+			"</p>\\n<p>$2</p>\\n",
+			"</h2>\\n<p>$1</p>\\n",
+			"</h2>\\n<p>$1</p>",
+			"<h2>$1</h2>\\n",
+			"<h2>$1</h2>",
+			"<h2>$1</h2>\\n",
+			"<h1>$1</h1>\\n",
+			"<h1>$1</h1>",
+			"colorpicker",
+			"$1",
+			"",
+			"$1, ",
+			"1$, ",
+			"$1, ",
+			"",
+			"self.",
+			"self",
+			"\\\"",
+			"%20",
+			"\\t",
+			"",
+			"\\t",
+			"\\t$1",
+			"ATM출금\\t\\nATM출금",
+			"\\t",
+			"\\t$1",
+			"ATM출금\\nATM출금",
+			"\\t",
+			"\\t$1",
+			"ATM출금\\nATM출금",
+			"\\t",
+			"\\t$1",
+			"ATM출금\\nATM출금",
+			"\\t",
+			"\\t$1",
+			"$1\\t",
+			"\\t",
+			"\\t$1",
+			"file://localhost/Volumes/XOUL/Music",
+			"\\n\\t",
+			"$1"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"api",
+				"hippo/views/api.py"
+			],
+			[
+				"utils",
+				"hippo/utils.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 256.0,
+	"status_bar_visible": true
+}

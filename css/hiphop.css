@@ -1,0 +1,20 @@
+body {
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+
+#nav {
+	margin: 0;
+}
+
+pre {
+	padding: 0;
+	border: none;
+	background-color: #fff;
+}
+
+.youtube {
+	width: 420px;
+	max-width: 100%;
+	min-height: 240px;
+}
